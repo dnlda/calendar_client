@@ -1,0 +1,94 @@
+april2023Hours:
+    hours: 160
+may2023Hours:
+    hours: 167
+intervalHours:
+    -
+        year: 2023
+        month: 4
+        hours: 160
+    -
+        year: 2023
+        month: 5
+        hours: 167
+    -
+        year: 2023
+        month: 6
+        hours: 168
+    -
+        year: 2023
+        month: 7
+        hours: 168
+    -
+        year: 2023
+        month: 8
+        hours: 184
+    -
+        year: 2023
+        month: 9
+        hours: 168
+    -
+        year: 2023
+        month: 10
+        hours: 176
+    -
+        year: 2023
+        month: 11
+        hours: 175
+    -
+        year: 2023
+        month: 12
+        hours: 168
+april2024Hours:
+    hours: 160
+may2024Hours:
+    hours: 144
+fullIntervalHours:
+    -
+        year: 2023
+        month: 4
+        hours: 160
+    -
+        year: 2023
+        month: 5
+        hours: 167
+    -
+        year: 2023
+        month: 6
+        hours: 168
+    -
+        year: 2023
+        month: 7
+        hours: 168
+    -
+        year: 2023
+        month: 8
+        hours: 184
+    -
+        year: 2023
+        month: 9
+        hours: 168
+    -
+        year: 2023
+        month: 10
+        hours: 176
+    -
+        year: 2023
+        month: 11
+        hours: 175
+    -
+        year: 2023
+        month: 12
+        hours: 168
+    -
+        year: 2024
+        month: 1
+        hours: 136
+    -
+        year: 2024
+        month: 2
+        hours: 159
+    -
+        year: 2024
+        month: 3
+        hours: 159
