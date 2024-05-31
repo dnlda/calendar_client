@@ -1,0 +1,33 @@
+april2023Hours:
+    hours: 160
+may2023Hours:
+    hours: 160
+intervalHours:
+    - 160
+    - 160
+    - 168
+    - 168
+    - 184
+    - 168
+    - 176
+    - 167
+    - 168
+    - 1519
+april2024Hours:
+    hours: 184
+may2024Hours:
+    hours: 144
+fullIntervalHours:
+    - 160
+    - 160
+    - 168
+    - 168
+    - 184
+    - 168
+    - 176
+    - 167
+    - 168
+    - 136
+    - 159
+    - 159
+    - 1973
